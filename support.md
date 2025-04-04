@@ -6,4 +6,4 @@ title: Flyrt Support
 *Effective Date: Apr 1st, 2025*
 
 ## Contact Support
-Email: [support@flyrt.org](mailto:flyrt@askpascal.com)
+Email: [support@flyrt.org](mailto:support@flyrt.org)

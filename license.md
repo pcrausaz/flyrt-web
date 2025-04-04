@@ -39,5 +39,5 @@ This Agreement shall be governed by and construed in accordance with the laws of
 
 ## 10. Contact Information
 For questions or concerns regarding this Agreement, please contact us at:
-Email: [license@flyrt.org](mailto:flyrt@askpascal.com)
+Email: [license@flyrt.org](mailto:support@flyrt.org)
 Website: [http://flyrt.org/home](http://flyrt.org/home)

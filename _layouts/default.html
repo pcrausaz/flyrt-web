@@ -14,10 +14,17 @@
     <section class="page-header">
       <h1 class="project-name"> <a href="http://flyrt.org">
         <img src="{{ '/assets/images/flyrt_logo.png' | relative_url }}" alt="Flyrt Logo" class="logo">
-        {{ site.title | default: site.github.repository_name }}
+      <span  class="site-title"> {{ site.title | default: site.github.repository_name }}</span>
       </a></h1>
+      <span class="stamp">B E T A</span>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      <a href="https://applestorelink" class="btn">Download app</a>
+      <!-- https://apps.apple.com/app/idYOUR_APP_ID   https://toolbox.marketingtools.apple.com/en-us/app-store/us -->
+
+      <a href="https://testflight.apple.com/join/pBXyCbYv" target="_blank">
+          <img src="{{ '/assets/images/app-store-badge.svg' | relative_url }}" alt="Download Beta on the App Store" class="app-store-badge">
+      </a>
+       
+
     </section>
 
     <div class="site-menu">
