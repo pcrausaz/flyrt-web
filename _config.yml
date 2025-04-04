@@ -1,3 +1,6 @@
 # configure jekyll theme
 
-theme: CAYMAN
+theme: jekyll-theme-cayman
+title: "Flyrt"
+description: "Flyrt - your new way to meet new people, at home or when on the go."
+url: "https://flyrt.org"
