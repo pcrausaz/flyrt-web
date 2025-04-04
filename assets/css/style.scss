@@ -54,8 +54,8 @@ a {
 }
 .stamp {
     position: absolute;
-    top: 50%; /* Center vertically over the button */
-    left: 50%; /* Center horizontally over the button */
+    top: 35%; /* Center vertically over the button */
+    left: 60%; /* Center horizontally over the button */
     transform: translate(-50%, -50%) rotate(-15deg); /* Center and rotate the stamp */
     display: inline-block;
     padding: 5px 15px;
@@ -70,9 +70,8 @@ a {
     z-index: 2; /* Place it above the button */
 }
 .site-menu-coffee {
-    position: absolute;
-    top: 0.5%;
-    right: 0%;
+    position: relative;
+    
 }
 
 .main-content h1, 
