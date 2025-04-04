@@ -16,12 +16,61 @@ a {
     background-image: linear-gradient(120deg, #751578, #b513bb);
 }
 
-.logo {
+
+.project-name .logo {
+    display: block; /* Ensures the logo is on its own line */
+    margin: 0 auto; /* Horizontally centers the logo */
     height: 64px; /* Adjust as needed */
     width: auto; /* Keeps the aspect ratio */
-    vertical-align: middle; /* Aligns the logo with the text */
     border-radius: 8px; /* Makes the corners rounded */
 }
+
+.project-name .site-title {
+    display: block; /* Keeps the title on its own line */
+    margin-top: 10px; /* Adds spacing between the logo and title */
+}
+
+.app-store-badge {
+    width: 150px; /* Adjust size */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensures it appears on its own line */
+    margin: 20px auto; /* Centers the badge */
+}
+
+.page-header {
+    position: relative; /* Ensures positioning context for the stamp */
+}
+
+.btn {
+    display: inline-block;
+    background-color: #751578; /* Button background color */
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    position: relative; /* Allows stamp to layer over it */
+    z-index: 1; /* Ensures button is below stamp */
+}
+.stamp {
+    position: absolute;
+    top: 50%; /* Center vertically over the button */
+    left: 50%; /* Center horizontally over the button */
+    transform: translate(-50%, -50%) rotate(-15deg); /* Center and rotate the stamp */
+    display: inline-block;
+    padding: 5px 15px;
+    background-color: rgba(255, 0, 0, 0.4); /* Red with 70% opacity */
+    color: rgba(255, 255, 255, 0.9); /* White text with 90% opacity */
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 10px; /* Round the corners */
+    border: 2px solid rgba(255, 255, 255, 0.9); /* Transparent border for a subtle effect */
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    z-index: 2; /* Place it above the button */
+}
+
+
 
 .main-content h1, 
 .main-content h2,
