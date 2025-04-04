@@ -1,10 +1,12 @@
 - name: Home
   link: /home
+- name: FAQ
+  link: /faq
 - name: Support
   link: /support
 - name: Privacy
   link: /privacy
 - name: EULA
   link: /license
-- name: APIs
+- name: Miscellaneous
   link: /external

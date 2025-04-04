@@ -5,7 +5,7 @@ title: Flyrt Privacy Notice
 # {{ page.title }}
 *Effective Date: Apr 1st, 2025*
 
-Welcome to Flyrt, operated by [Flyrt.org](http://flyrt.org). Your privacy is important to us.
+Welcome to Flyrt, operated by [**Flyrt.org**](http://flyrt.org). Your privacy is important to us.
 
 ## 1. Information We Collect
    - **Authentication Data:** Username, email, and password for account creation and authentication.
@@ -26,4 +26,4 @@ Users can delete their account at any time. Except for authentication informatio
 All data is encrypted at rest and in transit. Our backend ensures a secure data storage and management.
 
 ## 6. Contact Us
-If you have any privacy-related questions, contact us at  [privacy@flyrt.org](mailto:flyrt@askpascal.com)
+If you have any additional privacy-related questions, please contact us at  [privacy@flyrt.org](mailto:flyrt@askpascal.com)
