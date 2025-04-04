@@ -12,9 +12,11 @@
 
   <body>
     <section class="page-header">
-      <h1 class="project-name"><a href="http://flyrt.org">{{ site.title | default: site.github.repository_name }}</a></h1>
+      <h1 class="project-name"> <a href="http://flyrt.org">
+        <img src="{{ '/assets/images/flyrt_logo.png' | relative_url }}" alt="Flyrt Logo" class="logo">
+        {{ site.title | default: site.github.repository_name }}
+      </a></h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-     
       <a href="https://applestorelink" class="btn">Download app</a>
     </section>
 
