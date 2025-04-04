@@ -8,6 +8,9 @@ title: Flyrt FAQ
 # Frequently Asked Questions (FAQ)
 
 ## Beta Program FAQ
+### What is the Beta Program?
+The beta program allows friendly (😉)users to test the application before its official release and provide us with feedback to help improve it.
+
 ###  Who can have access to the Beta Program?
 Anyone can have access. We reserve the right to stop accepting new beta users if we have the need. 
 
@@ -37,13 +40,16 @@ Flyrt today focuses on English (US) and French(FR). Additional languages will be
 
 
 ### When do I get new Flyrt suggestions
-Depending on your account type, you get suggestions at different time of the day. A free basic account with Flyrt gives you a certain number of suggestions once a day. Keep in mind that suggestions are conditions to the characteristic of your profile and other people profiles, as well as their location.
+Depending on your account type, you get suggestions at different time of the day. A free basic account with Flyrt gives you a certain number of suggestions once a day, within a 24-hour period. Keep in mind that suggestions are conditions to the characteristic of your profile and other people profiles, as well as their location.
+
+### I do not get enough suggestions
+The number of daily suggestions for free accounts is limited and depends on factors such as your profile completeness and the availability of suitable profiles in your area. If you do not want to wait for the next round of suggestions in that 24-hour period, you can use In-App Purchase to upgrade to Premium or to get access to one-time suggestions triggers.
 
 ### How does Flyrt makes suggestions
 Flyrt use the information in your profile and your location to search for appropriate connections. Our suggestions will be proposed in the Flyrt tab. We have advanced machine learning tools to make the best match and the Flyrt algorithm weights the various components of your profile to ensure the best results.
 
 ### How does Flyrt make matches? Spoiler: It does not.
-Flyrt only makes suggestions, it never make a like or a match. There are two way to make a match, either you like someone who has already liked your or you like somone, who will then like you to create a match.
+Flyrt focuses on suggesting potential connections rather than automatically creating matches. Matches are formed when two users mutually like each other.
 
 ### What is the weight of each piece of information for suggestions
 We are always modifying the algorithm to ensure the best result, so we are not sharing that information at this time.
@@ -53,9 +59,6 @@ Yes, all data is encrypted at rest and in transit.
 
 ### Do I need to share my location?
 For better results, you should authorize the application to get access to the location data. By sharing your location with your match you maximize the chance to connect with specific matches at your destional. You do not need to share your location to use Flyrt, but by not sharing your location, you minimize your chance to connect with your matches.
-
-### I do not get enough suggestions
-Your free account comes with a limited number of daily suggestions, as long as your profile finds it match. If you do not want to wait for the next round of suggestions, you can use In-App Purchase to upgrade to Premium or to get access to one-time suggestion triggers.
 
 ### Can I delete my account
 Go to profile settings and select "Delete Account.
