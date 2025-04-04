@@ -16,6 +16,13 @@ a {
     background-image: linear-gradient(120deg, #751578, #b513bb);
 }
 
+.logo {
+    height: 64px; /* Adjust as needed */
+    width: auto; /* Keeps the aspect ratio */
+    vertical-align: middle; /* Aligns the logo with the text */
+    border-radius: 8px; /* Makes the corners rounded */
+}
+
 .main-content h1, 
 .main-content h2,
 .main-content h3, 
